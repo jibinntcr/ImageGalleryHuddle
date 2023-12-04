@@ -1,1 +1,1 @@
-# ImageGalleryHuddle
+# Image-Gallery
